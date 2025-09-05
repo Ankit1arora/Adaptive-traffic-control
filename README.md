@@ -19,7 +19,7 @@ It shows how adaptive signals can reduce congestion and clear more vehicles comp
 ---
 
 ## 🖼️ Demo Screenshot
-[*(Add a screenshot of your simulation here once you run it and capture the window.)*](https://github.com/Ankit1arora/Adaptive-traffic-control/blob/main/Screenshot%202025-09-05%20195956.png)
+[* screenshot of your simulation ](https://github.com/Ankit1arora/Adaptive-traffic-control/blob/main/Screenshot%202025-09-05%20195956.png)
 
 ---
 
